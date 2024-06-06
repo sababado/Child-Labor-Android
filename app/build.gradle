@@ -3,7 +3,6 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 33
 //     buildToolsVersion "26.0.1"
-    buildToolsVersion "30.0.2"
     // new line added fro error Execution failed for task ':app:lint'.
     lintOptions {
         abortOnError false
